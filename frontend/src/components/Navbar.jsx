@@ -75,7 +75,7 @@ const Navbar = () => {
             letterSpacing={-2}
             cursor='pointer'
             onClick={() => navigate('/')}
-          >MYNTRA</Text>
+          >ClothKriti </Text>
           <Hamburger base='flex' sm='none' md='none' />
         </Box>
         <Searchbar />
