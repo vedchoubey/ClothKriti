@@ -1,6 +1,6 @@
 https://user-images.githubusercontent.com/102798814/185803808-cfc2fd12-aaae-454d-b25b-810481ffa4f5.mp4
 
-# Clothify
+# ClothKriti
 
 This application is a classic clothes sales app. People can buy somethings and write reviews about them. 
 They can add favorites if they like. they can track their active orders and view order history. 
